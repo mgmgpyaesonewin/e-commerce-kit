@@ -1,1 +1,1 @@
-# e-commerce-open-source
+# e-commerce-kit
